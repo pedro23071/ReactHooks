@@ -1,0 +1,52 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "precio": "200",
+      "nombre": "Enchiladas",
+      "categoria": "Desayuno"
+    },
+    {
+      "id": 2,
+      "precio": "100",
+      "nombre": "Torta",
+      "categoria": "Comida"
+    },
+    {
+      "precio": "120",
+      "nombre": "Flan",
+      "categoria": "postre",
+      "id": 3
+    },
+    {
+      "precio": "50",
+      "nombre": "Soda",
+      "categoria": "bebida",
+      "id": 4
+    },
+    {
+      "precio": "50",
+      "nombre": "refresco",
+      "categoria": "bebida",
+      "id": 5
+    },
+    {
+      "precio": "200",
+      "nombre": "Ensalada de pollo",
+      "categoria": "ensalada",
+      "id": 6
+    },
+    {
+      "precio": "50",
+      "nombre": "Agua de jamaica",
+      "categoria": "bebida",
+      "id": 7
+    },
+    {
+      "precio": "300",
+      "nombre": "Carne",
+      "categoria": "cortes",
+      "id": 8
+    }
+  ]
+}
